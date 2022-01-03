@@ -1,6 +1,8 @@
 # TrafficSimulator
 
-Traffic Simulator project developed for the subject "Tecnología de la Programación II" (TP2)
+Traffic Simulator project developed for the subject "Tecnología de la Programación II" (TP2).
+
+There are two versions, the second one is more complex and has GUI.
 
 ## Autores
 
